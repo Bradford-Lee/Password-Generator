@@ -15,6 +15,14 @@ Someone may use this website https://bradford-lee.github.io/homework-03/ if they
 
 ![screenshot](https://user-images.githubusercontent.com/127280322/230812106-4de2da45-99e8-49ba-ba1d-9f9ff186c530.PNG)
 
+## Copyright
+
+For this project I used ideas and problem solutions from the instructor Samantha Rudoplh and the follow sources:
+
+https://stackoverflow.com/
+https://www.w3schools.com/
+
+
 ## License
 
 Please refer to the LICENSE in the repo.
