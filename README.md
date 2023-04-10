@@ -17,9 +17,9 @@ Someone may use this website https://bradford-lee.github.io/homework-03/ if they
 
 ## Copyright
 
-For this project I used ideas and problem solutions from the instructor Samantha Rudoplh and the follow sources:
+For this project I used ideas and problem solutions from the instructor Samantha Rudolph and the follow sources:
 
-https://stackoverflow.com/
+https://stackoverflow.com/ 
 https://www.w3schools.com/
 
 
