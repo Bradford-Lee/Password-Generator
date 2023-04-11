@@ -1,4 +1,4 @@
-# Homework-03 Password Generator Starter Code
+# Password Generator Starter Code
 
 ## Description
 
